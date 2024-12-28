@@ -4,7 +4,7 @@
 
 Чтобы начать построение CA и инфраструктуры PKI, используйте wget для загрузки последней версии EasyRSA на систему CA и на сервер OpenVPN. Чтобы получить последнюю версию, откройте страницу Релизы на официальном сервере EasyRSA на проекте GitHub https://github.com/OpenVPN/easy-rsa/releases, скопируйте ссылку для загрузки файла с расширением .tgz и вставьте ее в следующую команду:
 
-`wget -P ~/ https://github.com/OpenVPN/easy-rsa/releases/download/v3.1.7/EasyRSA-3.1.7.tgz`
+`wget -P ~/ https://github.com/OpenVPN/easy-rsa/releases/download/v3.2.1/EasyRSA-3.2.1.tgz`
 
 Затем извлеките tarball:
 
