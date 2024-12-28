@@ -6,7 +6,7 @@
 
 `wget -P ~/ https://github.com/OpenVPN/easy-rsa/releases/download/v3.2.1/EasyRSA-3.2.1.tgz`
 
-Затем извлеките tarball:
+Затем извлеките Tarball:
 
 `tar xvf EasyRSA-3.1.7.tgz`
 
